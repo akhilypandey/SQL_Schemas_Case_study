@@ -1,0 +1,40 @@
+# 🏠 Airbnb -- Product Dissection & Schema Design
+
+## 📌 Overview
+
+An accommodation marketplace connecting hosts and guests.
+
+------------------------------------------------------------------------
+
+## ✨ Key Features
+
+-   Listings
+-   Bookings
+-   Payments
+-   Reviews
+
+------------------------------------------------------------------------
+
+## 🏗 Database Architecture Highlights
+
+Booking-based transactional core with Host-User separation.
+
+------------------------------------------------------------------------
+
+## 🧠 Design Principles Applied
+
+-   Third Normal Form (3NF+)\
+-   Referential Integrity\
+-   ENUM-based Status Controls\
+-   Transaction-Centric Modeling\
+-   Scalability Considerations
+
+------------------------------------------------------------------------
+
+## 📊 ER Diagram
+
+Refer to the ER diagram file included in the project folder.
+
+------------------------------------------------------------------------
+
+Prepared for academic and portfolio purposes.
